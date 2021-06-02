@@ -1,0 +1,67 @@
+#linkone {
+  position: absolute;
+  width: 73px;
+  height: 18px;
+  left: 617px;
+  top: 38px;
+
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  color: #252525;
+}
+#linktwo {
+  position: absolute;
+  width: 72px;
+  height: 18px;
+  left: 750px;
+  top: 38px;
+
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  color: #252525;
+}
+#linkthree {
+  position: absolute;
+  width: 105px;
+  height: 18px;
+  left: 882px;
+  top: 38px;
+
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  color: #252525;
+}
+a:hover {
+  color:beige;
+}
+#floatingtext {
+  position: absolute;
+  width: 535px;
+  height: 87px;
+  left: 90px;
+  top: 154px;
+
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+#dogphoto {
+  position: absolute;
+  width: 1024px;
+  height: 466px;
+  left: 0px;
+  top: 92px;
+  background: url(https://images.pexels.com/photos/374825/pexels-photo-374825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940), #56507A;
+}

@@ -1,3 +1,10 @@
+#logo {
+  position: absolute;
+  width: 162px;
+  height: 40px;
+  left: 36px;
+  top: 28px;
+}
 #linkone {
   position: absolute;
   width: 73px;
@@ -11,6 +18,9 @@
   font-size: 16px;
   line-height: 18px;
   color: #252525;
+}
+#linkone:hover {
+  color: tan;
 }
 #linktwo {
   position: absolute;
@@ -26,6 +36,9 @@
   line-height: 18px;
   color: #252525;
 }
+#linktwo:hover {
+  color: tan;
+}
 #linkthree {
   position: absolute;
   width: 105px;
@@ -40,8 +53,8 @@
   line-height: 18px;
   color: #252525;
 }
-a:hover {
-  color:beige;
+#linkthree:hover {
+  color: tan;
 }
 #floatingtext {
   position: absolute;
@@ -63,5 +76,21 @@ a:hover {
   height: 466px;
   left: 0px;
   top: 92px;
-  background: url(https://images.pexels.com/photos/374825/pexels-photo-374825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940), #56507A;
+  background: url(DoggoPhoto.png), #56507A;
+}
+#button {
+  position: absolute;
+  width: 226px;
+  height: 50px;
+  left: 90px;
+  top: 285px;
+
+  background: #000000;
+  color: #ffffff;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  border-radius: 5px;
 }
